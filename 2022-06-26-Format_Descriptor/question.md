@@ -172,6 +172,17 @@
 
 ```
 
-### Need Help? [ click me](https://smartsheet-platform.github.io/api-docs/#formatting)
+### Need More Help? [ click me](https://smartsheet-platform.github.io/api-docs/#formatting){:target="\_blank"}
 
-### want solutions [click me](https://github.com/razaahmad)
+<br/>
+<br/>
+
+> ### want solutions
+>
+> [click here to get solution by me](https://github.com/razaahmad333/coding-challenges/blob/main/2022-06-26-Format_Descriptor/Solutions/Ahmad_Raza/index.js)
+
+or you can checkout solutions by other people in dir given below
+
+```shell
+    2020-06-26-Format_Descriptor/Solutions
+```
