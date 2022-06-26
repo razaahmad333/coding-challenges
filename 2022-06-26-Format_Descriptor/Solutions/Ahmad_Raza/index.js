@@ -1,4 +1,4 @@
-
+// helper function to update the style sheet 
 const updateStyleSheet = (newStyle, styleSheet) => {
     return {
         ...styleSheet,
@@ -6,23 +6,30 @@ const updateStyleSheet = (newStyle, styleSheet) => {
     };
 };
 
+// helper function to get default lookup index from a index 
+
 const getDefault = (idx) => {
     return Number(serverInfo.formats.defaults.split(",")[idx]);
 };
 
+// helper function to get a index from a lookup
 const getLookupIdx = (idx, lookup) => {
     return Number(lookup === "" ? getDefault(idx) : lookup);
 };
 
+// function which returns a sheet, that we wanted
 function formatDescriptor(format) {
-    if (!format) return {};
+
+    // first of all we will split the format string into an array
     const lookupArray = format.split(",");
+    // it gives ["", "", 1, 1, "", "", "", "", "", ""]
+
     let style = {};
 
     for (let i = 0; i < lookupArray.length; i++) {
         const lookup = lookupArray[i];
-        const lookup_idx = getLookupIdx(i, lookup);
-        let info;
+        const lookup_idx = getLookupIdx(i, lookup); // the index of the value in the info (serverInfo)
+        let info; // to store the info of the field 
         if (i === 0) {
             info = serverInfo.formats.fontFamily;
             style = updateStyleSheet(
