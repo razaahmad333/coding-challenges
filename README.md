@@ -16,13 +16,13 @@ or
 
   After forking, you will be redirected to a screen of creating a new repo with a `Create Fork` button.
 
+  Click on the `Create Fork` button.
+
 - ### Clone the repo
 
   After creating the repo, find and click on the `Clone` button.
 
   Copy the link by clicking on the copy icon.
-
-<br>
 
 - ### Open your favorite terminal and run the following command
 
@@ -38,57 +38,67 @@ or
 
 - ### Now open up your favourite text editor and Add your solution
 
-Open the folder `coding-challenges`
+  Open the folder `coding-challenges`
 
-Go to the question folder for the prblem you want to solve
+  Go to the question folder for the prblem you want to solve
 
-For example:
-problem: `2022-06-26-Format_Descriptor`
-question folder would be: `coding-challenges/2022-06-26-Format_Descriptor`
+  For example:
+  problem: `2022-06-26-Format_Descriptor`
+  question folder would be: `coding-challenges/2022-06-26-Format_Descriptor`
 
-You will find out a Solutions folder inside that.
+  You will find out a Solutions folder inside that.
 
-For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions`
+  For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions`
 
-In this folder, create a new folder by your name
+  In this folder, create a new folder by your name
 
-For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions/YOUR_NAME`
+  For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions/YOUR_NAME`
 
-(you will see a folder named `Ahmad_Raza` already there, that's solution by me)
+  (you will see a folder named `Ahmad_Raza` already there, that's solution by me)
 
-Here create any file you want, for your solution.
-with any extension (.js .py .cpp .txt etc)
+  Here create any file you want, for your solution.
+  with any extension (.js .py .cpp .txt etc)
 
-after adding your solution, commit it to your repo
+  after adding your solution, commit it to your repo
 
 - ### How Should I Commit?
 
-open up a terminal and start type following commands
+  open up a terminal and start type following commands
 
-- create a new branch
+  - add all the files you have added to your repo
 
-```shell
-    git checkout -b YOUR_BRANCH_NAME
-```
+  ```shell
+      git add .
+  ```
 
-- add all the files you have added to your repo
+  - commit
 
-```shell
-    git add .
-```
+  ```shell
+      git commit -m "i added my solution or any nice message you like"
+  ```
 
-- commit
+  - push the code to your repo
 
-```shell
-    git commit -m "i added my solution or any nice message you like"
-```
-
-- push the code to your repo
-
-```shell
-    git push main YOUR_BRANCH_NAME
-```
+  ```shell
+      git push origin main
+  ```
 
 <br/>
 
+- ### Now its time for pull request.
+
+  Go to your repo on GitHub and click on the `Pull Requests` button.
+
+  Click on the `New pull request` button.
+
+  Click on the `Create Pull Request` button.
+
+  Now write a short description of what you have done or leave it empty.
+
+  Find and Click on the ` Create pull request` button on that page.
+
+<br>
+
 # that's great 🎉🎉
+
+Now I will merge your contribution to the main repo.
