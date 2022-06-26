@@ -1,6 +1,6 @@
 # coding-challenges
 
-Here, I post problems which I encounter and find interesting
+Here, I post problems which I encounter and find interesting ❣️
 
 [I have an interesting question to share](https://github.com/razaahmad333/coding-challenges#-i-have-an-interesting-question-to-share-)
 
@@ -108,15 +108,15 @@ or
 
 # that's great 🎉🎉
 
-Now I will merge your contribution to the main repo.
+Now I will merge your contribution to the main repo 🤗😻.
 
 <br>
 <br>
 
 > # 💡 I have an interesting question to share 🤝
 
-- send it to my email: **ahmadrazakhan8992@gmail.com**
-- or create a new issue on this repo
-- or give a link to the question
-- or give a pull request with the question in txt file or in any file you want
-- message me on **[LinkedIn](www.linkedin.com/in/ahmadrazakhan946)** or **[twitter](https://twitter.com/AHMADRa01256865)**
+- 📩 send it to my email: **ahmadrazakhan8992@gmail.com**
+- or 🏌️ create a new issue on this repo
+- or 🖇️ give a link to the question
+- or ✌️ give a pull request with the question in txt file or in any file you want
+- or 🏠 message me on **[LinkedIn](https://www.linkedin.com/in/ahmadrazakhan946)** or **[twitter](https://twitter.com/AHMADRa01256865)**
