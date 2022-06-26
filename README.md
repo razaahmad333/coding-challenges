@@ -12,17 +12,17 @@ or
 
 - ### Fork the repo
 
-  At the top right corner of the page, click on the `Fork` button
+  - At the top right corner of the page, click on the `Fork` button
 
-  After forking, you will be redirected to a screen of creating a new repo with a `Create Fork` button.
+  - After forking, you will be redirected to a screen of creating a new repo with a `Create Fork` button.
 
-  Click on the `Create Fork` button.
+  - Click on the `Create Fork` button.
 
 - ### Clone the repo
 
-  After creating the repo, find and click on the `Clone` button.
+  - After creating the repo, find and click on the `Clone` button.
 
-  Copy the link by clicking on the copy icon.
+  - Copy the link by clicking on the copy icon.
 
 - ### Open your favorite terminal and run the following command
 
@@ -33,33 +33,35 @@ or
   or
 
   ```shell
-      git clone  git@github.com:<your_github_username>/coding-challenges.git
+    git clone  git@github.com:<your_github_username>/coding-challenges.git
   ```
 
 - ### Now open up your favourite text editor and Add your solution
 
-  Open the folder `coding-challenges`
+  - Open the folder `coding-challenges`
 
-  Go to the question folder for the prblem you want to solve
+  - Go to the question folder for the prblem you want to solve
 
-  For example:
-  problem: `2022-06-26-Format_Descriptor`
-  question folder would be: `coding-challenges/2022-06-26-Format_Descriptor`
+    For example:
 
-  You will find out a Solutions folder inside that.
+    problem: `2022-06-26-Format_Descriptor`
 
-  For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions`
+    question folder would be: `coding-challenges/2022-06-26-Format_Descriptor`
 
-  In this folder, create a new folder by your name
+  - You will find out a Solutions folder inside that.
 
-  For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions/YOUR_NAME`
+    For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions`
+
+  - In this folder, create a new folder by your name
+
+    For example: `coding-challenges/2022-06-26-Format_Descriptor/Solutions/YOUR_NAME`
 
   (you will see a folder named `Ahmad_Raza` already there, that's solution by me)
 
-  Here create any file you want, for your solution.
-  with any extension (.js .py .cpp .txt etc)
+  - Here create any file you want, for your solution.
+    with any extension (.js .py .cpp .txt etc)
 
-  after adding your solution, commit it to your repo
+  - after adding your solution, commit it to your repo
 
 - ### How Should I Commit?
 
@@ -87,15 +89,15 @@ or
 
 - ### Now its time for pull request.
 
-  Go to your repo on GitHub and click on the `Pull Requests` button.
+  - Go to your repo on GitHub and click on the `Pull Requests` button.
 
-  Click on the `New pull request` button.
+  - Click on the `New pull request` button.
 
-  Click on the `Create Pull Request` button.
+  - Click on the `Create Pull Request` button.
 
-  Now write a short description of what you have done or leave it empty.
+  - Now write a short description of what you have done or leave it empty.
 
-  Find and Click on the ` Create pull request` button on that page.
+  - Find and Click on the ` Create pull request` button on that page.
 
 <br>
 
