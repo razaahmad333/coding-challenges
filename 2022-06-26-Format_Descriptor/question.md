@@ -190,3 +190,6 @@
 or you can checkout solutions by other people in dir given below
 
 [2020-06-26-Format_Descriptor/Solutions](https://github.com/razaahmad333/coding-challenges/blob/main/2022-06-26-Format_Descriptor/Solutions)
+
+### question is incomplete?
+[raise an issue](https://github.com/razaahmad333/coding-challenges/issues/new)
