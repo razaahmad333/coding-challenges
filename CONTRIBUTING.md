@@ -7,20 +7,9 @@ agree to abide by the [Code Of Conduct](https://github.com/razaahmad333/coding-c
 
 - Git -> [ Learn How to setup git on you system ](https://www.youtube.com/watch?v=qkbK31dMNfM)
 
-## Steps
-
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this project
-2. [Clone](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) your forked version `git clone https://github.com/<YOUR_GITHUB_NAME>/coding-challenges.git`
-3. Make changes
-4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
-5. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
-6. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
+<br>
 
 > ## How do I post my solution?
-
-[see the link](https://github.com/razaahmad333/coding-challenges/blob/main/CONTRIBUTING.md)
-
-or
 
 ### Here is few steps to follow
 

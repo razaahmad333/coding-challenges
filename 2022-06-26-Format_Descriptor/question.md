@@ -1,4 +1,4 @@
-# Format Descriptor
+# 🔖 Format Descriptor 🪢🪢🪢
 
 ### you are given a format , which is a string
 
@@ -172,10 +172,16 @@
 
 ```
 
-### Need More Help? [ click me](https://smartsheet-platform.github.io/api-docs/#formatting){:target="\_blank"}
+### Need More Help? [ click me](https://smartsheet-platform.github.io/api-docs/#formatting)
 
 <br/>
 <br/>
+
+# How do I submit my solution?
+
+- ### [click here to learn how to submit your solution](https://github.com/razaahmad333/coding-challenges/blob/main/CONTRIBUTING.md)
+
+<br>
 
 > ### want solutions
 >
