@@ -3,6 +3,8 @@
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the [Code Of Conduct](https://github.com/razaahmad333/coding-challenges/blob/main/CODE_OF_CONDUCT.md).
 
+[I have an interesting question to share](https://github.com/razaahmad333/coding-challenges#-i-have-an-interesting-question-to-share-)
+
 ## Prerequisites
 
 - Git -> [ Learn How to setup git on you system ](https://www.youtube.com/watch?v=qkbK31dMNfM)
