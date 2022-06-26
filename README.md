@@ -1,6 +1,6 @@
 # coding-challenges
 
-Here, I post problems which I encounter and find interesting ❣️
+Here, I share real-world coding problems which I encounter during internships and open source contributions.
 
 [I have an interesting question to share](https://github.com/razaahmad333/coding-challenges#-i-have-an-interesting-question-to-share-)
 
