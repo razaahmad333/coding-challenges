@@ -183,6 +183,4 @@
 
 or you can checkout solutions by other people in dir given below
 
-```shell
-    2020-06-26-Format_Descriptor/Solutions
-```
+[2020-06-26-Format_Descriptor/Solutions](https://github.com/razaahmad333/coding-challenges/blob/main/2022-06-26-Format_Descriptor/Solutions)
