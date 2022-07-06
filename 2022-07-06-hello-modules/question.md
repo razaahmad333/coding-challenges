@@ -1,7 +1,7 @@
 # Hello Modules
 ## Your first javascript code in terminal.
 
-### [I have written a blog post about this](hashnode.com).
+### [I have written a blog post about modules](https://ahmadrazakhan946.hashnode.dev/your-first-javascript-code-in-terminal).
 
 #### You can attempt this challenge if you know what a `module` is.
 
