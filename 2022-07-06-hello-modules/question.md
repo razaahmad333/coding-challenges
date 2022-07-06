@@ -40,12 +40,14 @@ npm init -y
 * `name`
 * `age`
 * `teacherIds` an array of teacherId
+
 #### and export this class.
 `module.exports = Student;` <br>
 
 ### in `index.js` import the class you created in `student.js`
 `const Student = require('./student.js');` <br>
 
+#### you can use any module in any module you want (means you can do require() in any file of any file).
 #### then create 5 students and console log the books they have to study with the name of teacher.
 
 ### how it is possible 
