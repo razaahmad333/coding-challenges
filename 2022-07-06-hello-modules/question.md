@@ -56,5 +56,24 @@ npm init -y
 
 
 
+<br/>
+<br/>
+
+# How do I submit my solution?
+
+- ### [click here to learn how to submit your solution](https://github.com/razaahmad333/coding-challenges/blob/main/CONTRIBUTING.md)
+
+<br>
+
+> ### want solutions
+>
+> [click here to get solution by me](https://github.com/razaahmad333/coding-challenges/tree/main/2022-07-06-hello-modules/Solutions/Ahmad_Raza)
+
+or you can checkout solutions by other people in dir given below
+
+[2022-07-06-hello-modules/Solutions](https://github.com/razaahmad333/coding-challenges/tree/main/2022-07-06-hello-modules/Solutions)
+
+### question is incomplete?
+[raise an issue](https://github.com/razaahmad333/coding-challenges/issues/new)
 
 
