@@ -2,7 +2,7 @@
 
 ## Your first javascript code in terminal.
 
-### [I have written a blog post about es6 modules](https://ahmadrazakhan946.hashnode.dev/your-first-javascript-code-in-terminal).
+### [I have written a blog post about es6 modules](https://ahmadrazakhan946.hashnode.dev/lets-explore-es6-modules).
 
 #### You can attempt this challenge if you know what a `es6 module` is.
 
