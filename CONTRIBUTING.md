@@ -7,7 +7,7 @@ agree to abide by the [Code Of Conduct](https://github.com/razaahmad333/coding-c
 
 ## Prerequisites
 
-- Git -> [ Learn How to setup git on you system ](https://www.youtube.com/watch?v=qkbK31dMNfM)
+- Git -> [ Learn How to setup git on your system ](https://www.youtube.com/watch?v=qkbK31dMNfM)
 
 <br>
 
