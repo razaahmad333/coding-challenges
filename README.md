@@ -119,4 +119,4 @@ Now I will merge your contribution to the main repo 🤗😻.
 - or 🏌️ create a new issue on this repo
 - or 🖇️ give a link to the question
 - or ✌️ give a pull request with the question in txt file or in any file you want
-- or 🏠 message me on **[LinkedIn](https://www.linkedin.com/in/ahmadrazakhan946)** or **[twitter](https://twitter.com/AHMADRa01256865)**
+- or 🏠 message me on **[LinkedIn](https://www.linkedin.com/in/ahmadrazakhan946)** or **[twitter](https://twitter.com/ahmadraza946_)**
