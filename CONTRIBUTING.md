@@ -13,7 +13,7 @@ agree to abide by the [Code Of Conduct](https://github.com/razaahmad333/coding-c
 
 > ## How do I post my solution?
 
-### Here is few steps to follow
+### Here are few steps to follow
 
 - ### Fork the repo
 
